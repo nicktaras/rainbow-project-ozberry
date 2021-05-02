@@ -10,5 +10,5 @@ During the demo we showed the following:
 5. Which then Darryl could pull the files down from Github onto his Raspberry Pi and run the program (`git clone REPO_GOES_HERE` then `git pull origin main`)
 6. A last example, showed how to update the file added, where some changes were made to a file. Github is then able to detect the new changes from the old. (`git add . ` then `git commit -m 'reduced the timer speed and increased the brightness'` then `git push origin main` - were the commands used)
 
-
+The slides are included within this repo alongside the source code used. Happy coding!
 
